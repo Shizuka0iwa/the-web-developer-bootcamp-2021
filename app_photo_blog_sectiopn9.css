@@ -1,17 +1,11 @@
-.square {
+ #shizuka {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+
+#kiko {
     width: 500px;
     height: 500px;
 }
-/* 
-img {
-    max-width: 100%;
-    width: 100%;
-    height: auto;
-     top: 50%;     
-     left: 50%;
-     transform: translate( -50%, -50%);
- }
-  img.adjust {
-    height: 100%;
-    width: auto;
-} */
