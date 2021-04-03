@@ -7,7 +7,7 @@ form.addEventListener('submit', function (e) {
 
     const productInput = form.elements.product;
     const qtyInput = form.elements.qty;
-    addList(productInput.value, qtyInput.value)
+    addList(productInput.value, qtyInput.value);
     productInput.value = '';
     qtyInput.value = '';
 
